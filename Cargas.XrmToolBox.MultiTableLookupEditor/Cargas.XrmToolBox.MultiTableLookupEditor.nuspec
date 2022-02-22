@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cargas.XrmToolBox.MultiTableLookupEditor</id>
+    <version>1.2022.1.2</version>
+    <title>Multi-Table Lookup Editor</title>
+    <authors>Cargas Systems,Inc.</authors>
+    <owners>Cargas Systems,Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/cargas-systems-inc/Cargas.XrmToolBox.MultiTableLookupEditor</projectUrl>
+    <description>Plugin to help create and manage multi-table lookups in D365</description>
+    <releaseNotes>v1.2022.1.2 - Initial Release</releaseNotes>
+    <copyright>Copyright ©  2022</copyright>
+    <dependencies>
+      <dependency id="XrmToolBox" version="1.2021.12.53" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\Plugins\Cargas.XrmToolBox.MultiTableLookupEditor.dll" target="lib\net472\Plugins\Cargas.XrmToolBox.MultiTableLookupEditor.dll" />
+  </files>
+</package>

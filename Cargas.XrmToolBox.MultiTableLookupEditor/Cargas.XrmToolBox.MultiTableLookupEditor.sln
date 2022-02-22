@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cargas.XrmToolBox.MultiTableLookupEditor", "Cargas.XrmToolBox.MultiTableLookupEditor.csproj", "{5F9D7E5E-7C91-45EC-8D22-069CEC8B4A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9D7E5E-7C91-45EC-8D22-069CEC8B4A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9D7E5E-7C91-45EC-8D22-069CEC8B4A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9D7E5E-7C91-45EC-8D22-069CEC8B4A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9D7E5E-7C91-45EC-8D22-069CEC8B4A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033521CC-D414-477F-973B-CC62AA77FD1F}
+	EndGlobalSection
+EndGlobal
